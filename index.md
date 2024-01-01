@@ -15,11 +15,11 @@ A README.md is more than just a text file; it's the front page of your repositor
 
 Here’s a glimpse of what a Markdown README looks like:
 
-![markdown_code](/images/markdown_code.png)
+![markdown_code](images/markdown_code.png)
 
 And here's how it transforms on GitHub, turning into a polished, HTML-styled page:
 
-![rendered_markdown](/images/markdown_rendered.png)
+![rendered_markdown](images/markdown_rendered.png)
 
 You can learn more about Markdown at the [CommonMark](https://commonmark.org/), which also has a helpful [reference guide](https://commonmark.org/help/) and an [interactive tutorial](https://commonmark.org/help/tutorial/). There are some derivations of Markdown, such as RMarkdown. You can read about them [here](https://bookdown.org/yihui/blogdown/output-format.html). 
 
@@ -90,7 +90,7 @@ Finally, the license. It’s vital, especially for open-source projects. It tell
 
 A personal README in a repository named after your username acts as a professional portfolio on GitHub. This is particularly beneficial for newcomers to the data field. Highlight significant projects, contributions, and areas open for collaboration. This README serves as a valuable tool for networking and job searching.
 
-![Personal README](/images/personal_readme.png)
+![Personal README](images/personal_readme.png)
 
 ### Introducing Yourself
 
@@ -129,7 +129,7 @@ While you're updating your README, take a moment to enrich your GitHub profile w
 * Professional Summary: Use the bio section effectively to introduce yourself with a succinct professional summary. This could include your current role, areas of expertise, and what you're passionate about in your field. You can use the same you used on LinkedIn.
 * Linking Up: Connect your GitHub presence to your broader professional network. Include links to your LinkedIn for detailed work history, Twitter for industry commentary and engagement, and any other platforms where you contribute professionally.
     
-![GitHub_bio](/images/user_bio.png)
+![GitHub_bio](images/user_bio.png)
 
 ### Why it matters?
 
