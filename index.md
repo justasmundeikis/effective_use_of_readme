@@ -42,7 +42,8 @@ Creating an effective README is both an art and a science. It’s about making y
 Your title is the headline of your project. It should be clear, descriptive, and capture the essence of your work. Using a single # for the title in Markdown sets it apart with prominence, making it the first thing people notice.
 
 ### Badges
-Badges offer a fast and efficient way to convey key information about your project. Services like Shields.io provide badges that can display build status, test coverage, license information, and more. They're like the quick stats of your project, offering insights at a glance.
+
+Badges offer a fast and efficient way to convey key information about your project. Services like [Shields.io](Shields.io) provide badges that can display build status, test coverage, license information, and more. They're like the quick stats of your project, offering insights at a glance.
 
 ### Table of Contents
 
@@ -86,7 +87,7 @@ If your project is ongoing, a roadmap can be exciting. It gives readers a glimps
 
 ### Useful Links and Credits
 
-Here, you can link to additional resources, tutorials, or acknowledgments. If your project is a collaborative effort, give credit where it’s due. And if it's a significant project, consider adding a license. Helpful guidance on choosing the right one can be found at choosealicense.com.
+Here, you can link to additional resources, tutorials, or acknowledgments. If your project is a collaborative effort, give credit where it’s due. 
 
 ### Contribution
 
@@ -94,7 +95,7 @@ If you’re open to contributions, let people know how they can help. Linking to
 
 ### License
 
-Finally, the license. It’s vital, especially for open-source projects. It tells users what they can and cannot do with your code. For advice on which license to choose, check out this resource.
+Finally, the license. It’s vital, especially for open-source projects. It tells users what they can and cannot do with your code. For advice on which license to choose, check out this [choosealicense.com](choosealicense.com).
 
 ## The template
 
