@@ -63,12 +63,22 @@ This is where you tell the story of your project. A well-crafted description add
 
 If your project is a complex maze of files and folders, guide your users through it. Describing the structure or providing a visual representation can significantly help in understanding how your project is organized.
 
+Example of repository contents created with [excalidraw](https://excalidraw.com/):
+
+![](images/repository_contents.png)
+
 ### Usage
 
 This section is crucial. It should clearly explain how someone can set up and use your project. Cover things like:
+
 * Setup Instructions: Step-by-step guide for setting up your project.
 * Required Software and Libraries: List the tools and libraries needed.
 * Data Flow: Describe how data moves through your project, possibly with diagrams or flowcharts.
+
+Example of analysis flow created with [excalidraw](https://excalidraw.com/):
+
+![](images/analysis_flow.png)
+
 
 ### Roadmap
 
@@ -85,6 +95,84 @@ If you’re open to contributions, let people know how they can help. Linking to
 ### License
 
 Finally, the license. It’s vital, especially for open-source projects. It tells users what they can and cannot do with your code. For advice on which license to choose, check out this resource.
+
+## The template
+
+You can use the following template to get started with your README:
+
+```
+# Project Title: Data Analysis of [Dataset Name]
+
+## Introduction
+
+This project is an in-depth analysis of the [Dataset Name], aiming to uncover insights, trends, and patterns that can drive strategic decisions. Through rigorous data exploration and statistical modeling, this project serves as a thorough examination of the dataset's intrinsic properties and potential implications.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Background](#background)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Descriptions](#file-descriptions)
+- [Results and Discussion](#results-and-discussion)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
+- [Contact](#contact)
+
+## Background
+
+Provide a detailed introduction to the problem you're solving, the dataset's origin, and why this analysis is important.
+
+- What is the significance of this data analysis project?
+- What questions are you attempting to answer?
+- What impact could your findings have?
+
+## Installation
+
+Instructions for setting up the project environment:
+
+pip install -r requirements.txt
+
+
+## Usage
+
+How to run the notebook, scripts, or any related analysis: 
+
+python analysis_script.py
+
+Provide examples of how to run your code to reproduce your analysis.
+
+## File Descriptions
+
+- `data/`: Folder containing the dataset file(s).
+- `notebooks/`: Jupyter notebooks with detailed analysis.
+- `scripts/`: Python scripts for data cleaning and analysis.
+- `reports/`: Generated analysis reports, including visuals and insights.
+
+## Results and Discussion
+
+Discuss the key findings of your analysis. Include visuals or links to detailed reports.
+
+- What patterns did you uncover?
+- How do these results inform the questions posed or the problem being tackled?
+
+## Contributing
+
+If you wish to contribute to this project, please fork this repository and submit a pull request with your suggested changes. For major changes, please open an issue first to discuss what you would like to change.
+
+## Credits
+
+Acknowledge those who have contributed to the project, including data providers, collaborators, and any other support received.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
+
+## Contact
+
+For any additional questions or comments, please contact [Your Name] at [Your Email].
+```
 
 ## Personal README on GitHub
 
